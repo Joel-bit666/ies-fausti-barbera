@@ -1,8 +1,23 @@
 # ies-fausti-barbera
-"Content of Aules (2SMX)"
-- Aplicacions web (Sergio Laguna)
-- Servicis en xarxa (Enrique Galdúf)
-- Sistemas operativos (Oscar Garcia)
 
-  
-  <img width="252" height="200" alt="imagen" src="https://github.com/user-attachments/assets/a9661f4c-78f3-409a-9c4a-0af2f0c4fdf9" />
+## 📘 Contenido del repositorio
+Este repositorio contiene el material de los módulos del curso **2SMX** del IES Dr. Fausti Barberà.
+
+---
+
+## 📚 Módulos
+- Aplicaciones Web  
+- Serveis en Xarxa  
+- Sistemes Operatius  
+
+---
+
+## 👩‍🏫 Docentes
+- **Sergio Laguna** – Aplicaciones web  
+- **Enrique Galdúf** – Serveis en xarxa  
+- **Óscar García** – Sistemes operatius  
+
+
+## 🖼️ Logo del centro
+
+<img width="252" height="200" alt="imagen" src="https://github.com/user-attachments/assets/e3c54699-e015-45d5-a389-8bcd662e1c7f" />
